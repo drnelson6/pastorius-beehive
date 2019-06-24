@@ -52,7 +52,7 @@ menu:
   - title:             Data
     url:               /data/
   - title:             Blog
-    url:               /tag/blog/
+    url:               /blog/
   - title:             People
     url:               /people/
 
