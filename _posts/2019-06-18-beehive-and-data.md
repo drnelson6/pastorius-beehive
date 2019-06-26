@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Problematizing the Idea of Data in the Beehive"
 author: drnelson6
 tags: [blog]
